@@ -16,6 +16,7 @@ gem 'puma'
 # gem 'heroku' # Use Heroku Toolbelt
 
 gem 'figaro'
+gem 'rails_12factor'
 
 group :production do
   gem 'pg'
