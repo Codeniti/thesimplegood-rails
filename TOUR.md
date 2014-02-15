@@ -1,10 +1,45 @@
 ![thesimplegood](http://www.thesimplegood.com/assets/img/logo-globe.png)
 
-By [Anuj More and friends](http://execat.github.io/). Check out [TOUR.md](tour.md).
+By [Anuj More and friends](http://execat.github.io/).
 
 thesimplegood is a photo sharing app which allows users to share pics of simple good in their lives.
 
 thesimple good is written in Rails in the Codeniti Hackathon held on 15th Feb, 2014. Ideal way to celebrate (post) Valentine's day IMO.
+
+## Tour
+
+### Welcome page, unlogged
+![Welcome page, unlogged](http://i.imgur.com/BkgQNbn.png)
+
+### Login screen
+![Login screen](http://i.imgur.com/Ru1w66J.png)
+
+### 
+![](http://i.imgur.com/hJa1m11.png)
+
+### After logging in
+![After logging in](http://i.imgur.com/09qOGS9.png)
+
+### User profile
+![User profile](http://i.imgur.com/ErzMnf3.png)
+
+### Login screen
+![Login screen](http://i.imgur.com/DhtLAAY.png)
+
+### New pin
+![New pin](http://i.imgur.com/Swal7eR.png)
+
+### Filled pin
+![Filled pin](http://i.imgur.com/gK2iPgh.png)
+
+### Pin created
+![Pin created](http://i.imgur.com/QErSZBX.png)
+
+### About page
+![About page](http://i.imgur.com/GzuLJxo.png)
+
+### Edit profile
+![Edit profile](http://i.imgur.com/KQM8jNF.png)
 
 ## Information
 
@@ -18,14 +53,6 @@ In thesimplegood, you can:
 * Regular account management (change password and what not)
 
 Thanks to the makers of the gems. Especially Devise and Rails and ... (everyone really). I love you guise. <33
-
-### The wiki
-
-The Wiki is expected to be added later. But not today. I have to commit this soon.
-
-### Bug reports
-
-If you found a security bug, do *NOT* use the GitHub issue tracker. Send me email.
 
 ## License
 
