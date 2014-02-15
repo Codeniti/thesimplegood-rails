@@ -1,6 +1,6 @@
 ![thesimplegood](http://www.thesimplegood.com/assets/img/logo-globe.png)
 
-By [Anuj More and friends](http://execat.github.io/). Check out [TOUR.md](tour.md).
+By [Anuj More and friends](http://execat.github.io/). Check out [TOUR.md](TOUR.md) for screenshots (which might or might not be representative of the current master branch (Should automate this thing somehow)).
 
 thesimplegood is a photo sharing app which allows users to share pics of simple good in their lives.
 
