@@ -23,3 +23,18 @@ production:
   database: db/production.sqlite3
   pool: 5
   timeout: 5000
+
+test:
+  adapter: postgresql
+  encoding: unicode
+  database: thesimplegood_test
+  pool: 5
+  username: thesimplegood
+  password:
+production:
+  adapter: postgresql
+  encoding: unicode
+  database: thesimplegood_production
+  pool: 5
+  username: thesimplegood
+  password:
