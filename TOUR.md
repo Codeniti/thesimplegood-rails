@@ -14,8 +14,8 @@ thesimple good is written in Rails in the Codeniti Hackathon held on 15th Feb, 2
 ### Login screen
 ![Login screen](http://i.imgur.com/Ru1w66J.png)
 
-### 
-![](http://i.imgur.com/hJa1m11.png)
+### Filled login screen
+![Filled login screen](http://i.imgur.com/hJa1m11.png)
 
 ### After logging in
 ![After logging in](http://i.imgur.com/09qOGS9.png)
