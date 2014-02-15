@@ -15,6 +15,8 @@ gem 'guard'
 gem 'puma'
 # gem 'heroku' # Use Heroku Toolbelt
 
+gem 'figaro'
+
 group :production do
   gem 'pg'
 end
