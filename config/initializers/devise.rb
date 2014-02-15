@@ -2,7 +2,8 @@
 # Many of these configuration options can be set straight in your model.
 Devise.setup do |config|
   # Heroku secret
-  config.secret_key = ENV["HEROKU"]
+  # config.secret_key = ENV["HEROKU"]
+  config.secret_key = 'e7555f80579637e12e41fa6ae08ef1170e858ee89f35b00d2cb6a3bb522e7eceee864569bcb7340822e29334ea8284bbe7ad9ae24a7a585fc93f97cfef2e9e53'
 
   # ==> Mailer Configuration
   # Configure the e-mail address which will be shown in Devise::Mailer,
