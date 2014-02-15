@@ -1,0 +1,12 @@
+<% if user_signed_in? %>
+<% else %>
+  <div class="hero-unit">
+    <h1>Welcome to thesimplegood</h1>
+    <p>Start pinning stuff now!</p>
+    <%= link_to "Sign Up Now!", new_user_registration_path, class: "btn btn-primary btn-large" %>
+    <% @users = User.all %>
+    <% @users.each do |user| %>
+      <br/>
+    <% end %>
+  </div>
+<% end %>
