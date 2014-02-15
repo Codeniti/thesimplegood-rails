@@ -3,7 +3,7 @@
 Devise.setup do |config|
   # Heroku secret
   # config.secret_key = ENV["HEROKU"]
-  config.secret_key = 'e7555f80579637e12e41fa6ae08ef1170e858ee89f35b00d2cb6a3bb522e7eceee864569bcb7340822e29334ea8284bbe7ad9ae24a7a585fc93f97cfef2e9e53'
+  config.secret_key = 'ebfab84cfc909e0990047b9e28fba788654887d095fa95b5ac77541c2902b90aa2729bab90f21f75c0334edff557bc560a139aa26aee313d43d546b2df85e7bf'
 
   # ==> Mailer Configuration
   # Configure the e-mail address which will be shown in Devise::Mailer,
